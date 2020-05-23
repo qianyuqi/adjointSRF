@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+adjointOutletPressure/adjointOutletPressureFvPatchScalarField.dep\
+adjointOutletVelocity/adjointOutletVelocityFvPatchVectorField.dep\
+SRFadjointSensitivityFoam.dep
